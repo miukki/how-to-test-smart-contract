@@ -1,0 +1,9 @@
+{
+  "solidity.compileUsingRemoteVersion" : "latest",
+  "solidity.enabledAsYouTypeCompilationErrorCheck": true,
+  "solidity.validationDelay": 1500,
+  "solidity.packageDefaultDependenciesDirectory": "node_modules",
+  "solidity.packageDefaultDependenciesContractsDirectory": "",
+  "solidity.linter": "solhint",
+  
+}

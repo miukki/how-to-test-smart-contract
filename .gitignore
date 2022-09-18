@@ -1,0 +1,9 @@
+cache/solidity-files-cache.json
+artifacts
+secrets.json
+node_modules
+.todo
+cache
+coverage/
+coverage.json
+.DS_Store
